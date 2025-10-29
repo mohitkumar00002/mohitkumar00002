@@ -1,16 +1,23 @@
-## Hi there 👋
+Hi, I'm Mohit Kumar
 
-<!--
-**mohitkumar00002/mohitkumar00002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an MCA student at Ajay Kumar Garg Engineering College, Ghaziabad.  
+I am currently learning Java development and focusing on building strong skills in Java, Object-Oriented Programming (OOP), Data Structures, and SQL.
 
-Here are some ideas to get you started:
+About Me
+Pursuing Master of Computer Applications (MCA)
+Learning Core Java, DSA, and SQL
+Interested in backend development using Java
+Working on small Java projects to improve practical skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Technical Skills
+Programming and Web Technologies: Java, JavaScript, React, SQL, REST API 
+Database: MySQL  
+Concepts: OOP, DSA, DBMS, Software Engineering  
+Tools: Git, GitHub, IntelliJ IDEA,   
+
+Contact
+Email: rajputmohit0002@example.com  
+Location: Hapur, Uttar Pradesh, India  
+
+Thank you for visiting my profile.
+
