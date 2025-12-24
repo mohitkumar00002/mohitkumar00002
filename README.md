@@ -16,7 +16,7 @@ Concepts: OOP, DSA, DBMS, Software Engineering
 Tools: Git, GitHub, IntelliJ IDEA,   
 
 Contact
-Email: rajputmohit0002@example.com  
+Email: rajputmohit0002@gmail.com  
 Location: Hapur, Uttar Pradesh, India  
 
 Thank you for visiting my profile.
